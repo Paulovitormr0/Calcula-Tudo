@@ -49,4 +49,4 @@ Você vai precisar de um compilador C. O mais comum é o **GCC**, que pode ser i
 ## 👤 Autor
 
 **Paulo Vitor**
-* [GitHub](https://github.com/Paulovitormr0) *(<- Coloquei o link do seu perfil que vi nos logs do Git!)*
+* [GitHub](https://github.com/Paulovitormr0)
