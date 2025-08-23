@@ -46,34 +46,7 @@ Você vai precisar de um compilador C. O mais comum é o **GCC**, que pode ser i
 
 3.  O programa exibirá um menu de opções. Digite o número da operação desejada e pressione `Enter` para continuar.
 
-## 🤝 Como Contribuir
-
-Este projeto está no início e há muito espaço para melhorias e novas funcionalidades! Se você deseja contribuir, aqui estão algumas ideias:
-
-#### 1. Adicionar Novas Fórmulas
-Você pode adicionar novas funções de cálculo. Algumas sugestões:
--   Calculadora de Bhaskara
--   Cálculo de Fatorial
--   Sequência de Fibonacci
--   Cálculos de Área (círculo, triângulo, retângulo)
--   Conversor de Temperatura (Celsius, Fahrenheit, Kelvin)
--   Calculadora de Média, Mediana e Moda
-
-#### 2. Melhorar Funções Existentes
--   **Potenciação:** A função `Potencia()` atual pode ser melhorada para aceitar expoentes negativos ou zero.
--   **Conversor de Base:** A função `Conversorbase10()` pode ter sua saída formatada para não exibir os zeros à direita do resultado. O nome também poderia ser alterado para `ConverterDaBase10` para ficar mais claro.
-
-#### 3. Refatorar o Código
--   Melhorar a validação de entradas do usuário (ex: impedir que o divisor seja zero na conversão de base).
--   Organizar o código, talvez separando as funções em arquivos de cabeçalho (`.h`).
-
-Se você tem uma ideia, sinta-se à vontade para dar um "fork" no projeto, criar sua funcionalidade em uma nova "branch" e abrir um "Pull Request"!
-
 ## 👤 Autor
 
 **Paulo Vitor**
 * [GitHub](https://github.com/Paulovitormr0) *(<- Coloquei o link do seu perfil que vi nos logs do Git!)*
-
-## 📄 Licença
-
-Este projeto pode ser distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
