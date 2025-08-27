@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 
+int Base1 = 0;
+int NBase1 = 0;
+int Base2 = 0;
 int dividendo = 0;
 int divisor = 0;
 int quociente = 1;
@@ -11,6 +14,16 @@ int opcao = 0;
 int temp =  0;
 int size = sizeof(resto) / sizeof(resto[0]);
 
+int ConversorBaseN(void){
+    printf("Digite a base do primeiro numero:");
+    scanf("%d", Base1);
+    printf("Digite o primeirou numero");
+    scanf("%d", NBase1);
+    printf("Digite a basa de destino");
+    scanf("%d", Base2);
+    
+    for(i = 0, i )
+}
 int Potencia(void){
     double NumeroAux = 0;
     double Numero = 0;
