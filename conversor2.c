@@ -9,6 +9,9 @@ int main(){
     NBase1 = NBase1 / 10;
     printf("%d", Ncasas);
     sleep(2);
+     
+
+     
   }
   return 0;
 }
