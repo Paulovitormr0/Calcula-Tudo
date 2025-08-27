@@ -21,8 +21,6 @@ int ConversorBaseN(void){
     scanf("%d", NBase1);
     printf("Digite a basa de destino");
     scanf("%d", Base2);
-    
-    for(i = 0, i )
 }
 int Potencia(void){
     double NumeroAux = 0;
